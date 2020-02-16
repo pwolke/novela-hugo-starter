@@ -3,7 +3,7 @@ authors = []
 date = 2020-02-16T05:00:00Z
 draft = true
 excerpt = "there is nothing extra to say here"
-hero = "/images/municipal-waste.jpg"
+hero = ""
 timeToRead = 2
 title = "This is a test post"
 
